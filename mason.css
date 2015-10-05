@@ -1,0 +1,35 @@
+.grid-item {
+    border: 1px solid #000;
+    height: auto;
+    width: 300px;
+    margin-bottom: 30px
+}
+
+.grid {
+    margin: 0 auto
+}
+
+.wrap {
+    max-width: 636px;
+    margin: 50px auto
+}
+
+.red {
+    background: red
+}
+
+#grid-item1 {
+    background: blue
+}
+
+#grid-item2 {
+    background: red
+}
+
+#grid-item3 {
+    background: #f0f
+}
+
+#grid-item4 {
+    background: green
+}
